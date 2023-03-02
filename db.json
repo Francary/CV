@@ -1,0 +1,74 @@
+{
+  "expe": [
+    {
+      "id": 2,
+      "cargo": " Power Asistente Admnistrativo",
+      "fecha1": "Enero 2019",
+      "fecha2": "Diciembre 2022",
+      "lugar": "Argentina",
+      "resumen": "Facturacion y Cobranza",
+      "logo": "assets/img/logoHumberYellow.png",
+      "empresa": "Empresa 1"
+    },
+    {
+      "id": 3,
+      "cargo": " Power Asistente Admnistrativo",
+      "fecha1": "Enero 2019",
+      "fecha2": "Diciembre 2022",
+      "lugar": "Argentina",
+      "resumen": "Facturacion y Cobranza",
+      "logo": "assets/img/logoPromi.png",
+      "empresa": "Empresa 1"
+    },
+    {
+      "id": 4,
+      "cargo": " Power Asistente Admnistrativo",
+      "fecha1": "Enero 2019",
+      "fecha2": "Diciembre 2022",
+      "lugar": "Argentina",
+      "resumen": "Facturacion y Cobranza",
+      "logo": "assets/img/logoHumber2.png",
+      "empresa": "Empresa 1"
+    },
+    {
+      "cargo": "Asistente del Presidente",
+      "fecha1": "2023-01-18",
+      "fecha2": "2023-01-11",
+      "lugar": "Argentina",
+      "resumen": "asdas",
+      "logo": "",
+      "empresa": "Universal",
+      "id": 5
+    }
+  ],
+  "redes": [
+    {
+      "id": 1,
+      "nombreRedes": "GitHub",
+      "urlRedes": "https://github.com/Francary",
+      "iRedes": "assets/icon/github.svg"
+      
+    },
+    {
+      "id": 2,
+      "nombreRedes": "Linkedin",
+      "urlRedes": "https://www.linkedin.com/in/francarymolinapaez/",
+      "iRedes": "assets/icon/linkedin.svg"
+      
+    },
+    {
+      "id": 3,
+      "nombreRedes": "Tiwtter",
+      "urlRedes": "https://twitter.com/FrancaryMolina",
+      "iRedes": "assets/icon/twitter.svg"
+      
+    },
+    {
+      "id": 4,
+      "nombreRedes": "Instagram",
+      "urlRedes": "https://www.instagram.com/francarymolinapaez/",
+      "iRedes": "assets/icon/instagram.svg"
+      
+    }
+  ]
+}
