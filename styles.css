@@ -6,7 +6,7 @@ body{
       
 }
 .container {
-    background-color: #999999;
+    background-color: #f4f4A9;
     display:flex;
     justify-content: space-between;
     border-radius: 10px;
@@ -133,4 +133,14 @@ padding-right: 10px;
     width: 35px;
     height: 35px;
     margin-right: 5px;
+  }
+
+  .modo-claro {
+    align-items: center;
+    color: black;
+    font-size: 35px;
+    width: 35px;
+    height: 35px;
+    margin-right: 5px;
+    display: none;
   }
